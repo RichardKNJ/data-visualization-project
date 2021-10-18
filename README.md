@@ -1,1 +1,5 @@
-# data-visualization-project
+## Create React App Visualization
+
+This assessment was bespoke handcrafted for Richard.
+
+Read more about this assessment [here](https://react.eogresources.com)
